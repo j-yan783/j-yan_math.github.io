@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Junrong Yan's homepage
 
-You can use the [editor on GitHub](https://github.com/j-yan783/j-yan783.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+I am currently a Ph. D. candidate at University of California, Santa Barbar, since 2017.
+
+#### Email Address: 
+j_yan@math.ucsb.edu 
 
 ### Markdown
 
