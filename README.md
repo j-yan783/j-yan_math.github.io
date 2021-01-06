@@ -5,7 +5,7 @@
 I am currently a Ph. D. candidate at University of California, Santa Barbar, since 2017.
 
 #### Email Address: 
-j_yan@math.ucsb.edu 
+[j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
 
 ### Markdown
 
