@@ -1,11 +1,31 @@
-## Welcome to Junrong Yan's homepage
+# Welcome to Junrong Yan's homepage
 
 
+## About me
+I started my undergraduate training in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
 
-I am currently a Ph. D. candidate at University of California, Santa Barbar, since 2017.
 
-#### Email Address: 
+I am currently a Ph. D. candidate at University of California, Santa Barbar, since 2017. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/)
+
+### Email Address: 
 [j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
+
+## Research
+My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I am tring to understand QFT and string theory from index theoretic point of view.
+### Here are the projects that I am currently working on
+
+#### Analytic torsion for Witten Laplacian on noncompact manifolds
+This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
+#### Nonsemiclassical Weyl's law on noncompact manifolds
+This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
+#### BCOV torsion for LG models
+This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/) and [Xinxing Tang](http://ymsc.tsinghua.edu.cn/en/content/show/146-253.html).
+#### Renormalization theory and its application to BCOV theory
+This is a joint project with [Si Li](https://sili-math.github.io/).
+### Publications and Preprints
+#### Accepted or published
+#### Preprints
+#### In preparation
 
 ### Markdown
 
