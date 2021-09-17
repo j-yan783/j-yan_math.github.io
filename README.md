@@ -12,7 +12,7 @@ I am currently a Ph. D. candidate at University of California, Santa Barbar, sin
 ### [CV](https://www.overleaf.com/read/pxgrhxnkhwmj)
 
 ## Research
-My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I am tring to understand QFT and string theory from index theoretic point of view.
+My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I attempt to understand QFT and string theory from index theoretic point of view. See my [Research Statement](https://www.overleaf.com/read/csndqqjyvgvb) for more details.
 ### Here are the projects that I am currently working on
 
 #### Analytic torsion for Witten Laplacian on noncompact manifolds
