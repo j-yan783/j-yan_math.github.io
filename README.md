@@ -1,6 +1,5 @@
 # Welcome to Junrong Yan's homepage
 
-
 ## About me
 I started my undergraduate training in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
 
