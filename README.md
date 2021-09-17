@@ -10,6 +10,8 @@ I am currently a Ph. D. candidate at University of California, Santa Barbar, sin
 [j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
 ### [CV](https://www.overleaf.com/read/pxgrhxnkhwmj)
 
+Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimming.
+
 ## Research
 My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I attempt to understand QFT and string theory from index theoretic point of view. See my [Research Statement](https://www.overleaf.com/read/csndqqjyvgvb) for more details.
 ### Here are the projects that I am currently working on
