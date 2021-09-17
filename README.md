@@ -9,6 +9,7 @@ I am currently a Ph. D. candidate at University of California, Santa Barbar, sin
 
 ### Email Address: 
 [j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
+### [CV](https://www.overleaf.com/read/pxgrhxnkhwmj)
 
 ## Research
 My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I am tring to understand QFT and string theory from index theoretic point of view.
@@ -53,36 +54,3 @@ on Non-compact Manifolds
 2. _Math 108B: Introduction to Linear Algebra_, Winter 2018
 3. _Math 117: Methods of Analysis_, Fall 2019
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-jjj
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j-yan783/j-yan783.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
