@@ -53,4 +53,6 @@ on Non-compact Manifolds
 1. _Math 117: Methods of Analysis_, Fall 2017
 2. _Math 108B: Introduction to Linear Algebra_, Winter 2018
 3. _Math 117: Methods of Analysis_, Fall 2019
+## Non-academic stuff
+### My cat
 
