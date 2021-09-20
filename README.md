@@ -26,8 +26,10 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 ### Publications and Preprints
 #### Accepted or published
 1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232)
+
 #### Preprints
 1. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [ArXiv](https://arxiv.org/abs/2011.05468)
+
 #### In preparation
 1. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Ray-Singer Analytic torsion
 2. Xianzhe Dai and Junrong Yan. The Non-semiclassical Weyl Law for Schrodinger Operators
