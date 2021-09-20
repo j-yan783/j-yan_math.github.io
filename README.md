@@ -59,7 +59,7 @@ on Non-compact Manifolds
 3. _Math 117: Methods of Analysis_, Fall 2019
 
 ## Non-academic stuff
-### My cat is chasing diagram 
+### My cat is doing diagram chasing
 <img src="WechatIMG4.jpeg" width="100%">  
 ### My cat is reading a paper 
 <img src="WechatIMG5.jpeg" width="100%">   
