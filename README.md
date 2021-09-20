@@ -32,7 +32,7 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Ray-Singer Analytic torsion
-4. Xianzhe Dai and Junrong Yan. The Non-semiclassical Weyl's Law for Schrodinger Operators
+4. Xianzhe Dai and Junrong Yan. The Non-semiclassical Weyl's Law for Schr$\ddot{o}$dinger Operators
 on Non-compact Manifolds
 5. Xinxing Tang and Junrong Yan. Weil-Peterson Metric in the Landau-Ginzburg B-Models
 
