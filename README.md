@@ -33,6 +33,7 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 2. Xianzhe Dai and Junrong Yan. The Non-semiclassical Weyl Law for Schrodinger Operators
 on Non-compact Manifolds
 3. Xinxing Tang and Junrong Yan. Weil-Peterson Metric in the Landau-Ginzburg B-Models
+
 ## Teaching
 
 ### Instructor
@@ -49,10 +50,12 @@ on Non-compact Manifolds
 8. _Math 8: Transitions to Higher Mathematics_,  Fall 2020
 9. _Math 6A: Vector Calculus_, Winter 2021
 10. _Math 6A: Vector Calculus_, Spring 2021
+
 ### Reader
 1. _Math 117: Methods of Analysis_, Fall 2017
 2. _Math 108B: Introduction to Linear Algebra_, Winter 2018
 3. _Math 117: Methods of Analysis_, Fall 2019
+
 ## Non-academic stuff
 ### My cat is chasing diagram 
 <img src="WechatIMG4.jpeg" width="100%">  
