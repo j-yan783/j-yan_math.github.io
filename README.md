@@ -32,7 +32,7 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Ray-Singer Analytic torsion
-4. Xianzhe Dai and Junrong Yan. The Non-semiclassical Weyl Law for Schrodinger Operators
+4. Xianzhe Dai and Junrong Yan. The Non-semiclassical Weyl's Law for Schrodinger Operators
 on Non-compact Manifolds
 5. Xinxing Tang and Junrong Yan. Weil-Peterson Metric in the Landau-Ginzburg B-Models
 
@@ -47,7 +47,7 @@ on Non-compact Manifolds
 3. _Math 6B: Vector Calculus_, Winter 2019
 4. _Math 34B: Calculus for Social and Life Sciences_, Spring 2019
 5. _Math 6A: Vector Calculus_, Fall 2019
-6. _Math 6A: Vector Calculus_, Winter 2020\
+6. _Math 6A: Vector Calculus_, Winter 2020
 7. _Math 6A: Vector Calculus_, Summer 2020
 8. _Math 8: Transitions to Higher Mathematics_,  Fall 2020
 9. _Math 6A: Vector Calculus_, Winter 2021
