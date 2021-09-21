@@ -2,7 +2,7 @@
 
 # Welcome to Junrong Yan's homepage
 
-<a name="About me"></a>
+<a href=here>About me</a>
 ## About me
 I started my undergraduate training in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
 
@@ -13,7 +13,7 @@ I am currently a Ph. D. candidate at University of California, Santa Barbara, si
 ### [CV](https://www.overleaf.com/read/pxgrhxnkhwmj)
 
 Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimming.
-
+<a href=here>Research</a>
 ## Research
 My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I attempt to understand QFT and string theory from index theoretic point of view. See my [Research Statement](https://www.overleaf.com/read/csndqqjyvgvb) for more details.
 ### Here are the projects that I am currently working on
