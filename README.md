@@ -1,3 +1,5 @@
+<a href="http://www.baidu.com">about me</a>
+
 # Welcome to Junrong Yan's homepage
 
 ## About me
