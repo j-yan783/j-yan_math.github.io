@@ -4,6 +4,7 @@
 [About me](#R1)&emsp;&emsp;&emsp;&emsp;&emsp; [Research](#R2)&emsp;&emsp;&emsp;&emsp;&emsp; [Teaching](#R3)&emsp;&emsp;&emsp;&emsp; &emsp;[Non-Academic](#R4)
 <div><a name="R1"></a>
 </div>
+
 ## About me
 
 I started my undergraduate training in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
@@ -17,6 +18,7 @@ I am currently a Ph. D. candidate at University of California, Santa Barbara, si
 Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimming.
 <div><a name="R2"></a>
 </div>
+
 ## Research
 
 My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I attempt to understand QFT and string theory from index theoretic point of view. See my [Research Statement](https://www.overleaf.com/read/csndqqjyvgvb) for more details.
@@ -44,6 +46,7 @@ on Non-compact Manifolds
 5. Xinxing Tang and Junrong Yan. Weil-Peterson Metric in the Landau-Ginzburg B-Models
 <div><a name="R3"></a>
  </div>
+ 
 ## Teaching
 
 ### Instructor
@@ -67,6 +70,7 @@ on Non-compact Manifolds
 3. _Math 117: Methods of Analysis_, Fall 2019
 <div><a name="R4"></a>
  </div>
+ 
 ## Non-academic stuff
 ### My cat is doing diagram chasing
 <img src="WechatIMG4.jpeg" width="60%">  
