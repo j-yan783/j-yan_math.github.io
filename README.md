@@ -1,6 +1,6 @@
-# Welcome to Junrong Yan's homepage
 
-## About me
+
+# About me
 I started my undergraduate training in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
 
 I am currently a Ph. D. candidate at University of California, Santa Barbara, since 2017. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
@@ -11,7 +11,7 @@ I am currently a Ph. D. candidate at University of California, Santa Barbara, si
 
 Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimming.
 
-## Research
+# Research
 My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I attempt to understand QFT and string theory from index theoretic point of view. See my [Research Statement](https://www.overleaf.com/read/csndqqjyvgvb) for more details.
 ### Here are the projects that I am currently working on
 
@@ -36,7 +36,7 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 on Non-compact Manifolds
 5. Xinxing Tang and Junrong Yan. Weil-Peterson Metric in the Landau-Ginzburg B-Models
 
-## Teaching
+# Teaching
 
 ### Instructor
 1. _Math 3B: Calculus with Applications_, Summer 2021
