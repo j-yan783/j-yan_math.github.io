@@ -60,8 +60,8 @@ on Non-compact Manifolds
 
 ## Non-academic stuff
 ### My cat is doing diagram chasing
-<img src="WechatIMG4.jpeg" width="100%">  
+<img src="WechatIMG4.jpeg" width="60%">  
 ### My cat is reading a paper 
-<img src="WechatIMG5.jpeg" width="100%">   
+<img src="WechatIMG5.jpeg" width="60%">   
 
 
