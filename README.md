@@ -3,7 +3,7 @@
 ## About me
 I started my undergraduate training in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
 
-I am currently a Ph. D. candidate at University of California, Santa Barbar, since 2017. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
+I am currently a Ph. D. candidate at University of California, Santa Barbara, since 2017. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 
 ### Email Address: 
 [j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
