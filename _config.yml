@@ -1,14 +1,5 @@
 theme: jekyll-theme-cayman
 use_math: true
 layout: post # 默认是default，跟_layouts目录下的default.html文件对应，可以通过_config.yml的defaults字段配置默认设置
-author: 作者名 # 可以_config.yml默认配置
-title: 博文标题
-date: yyyy-mm-dd
-categories:
-- category1
-- category2
-tags:
-- tag1
-- tag2
-comments: true # 开启第三方评论模块，可以_config.yml默认配置
-share: true # 开启第三方分享模块，可以_config.yml默认配置
+title: Welcome to Junrong Yan's homepage | UCSB
+
