@@ -21,16 +21,7 @@ Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimmi
 ## Research
 
 My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I attempt to understand QFT and string theory from index theoretic point of view. See my [Research Statement](https://www.overleaf.com/read/csndqqjyvgvb) for more details.
-### Here are the projects that I am currently working on
 
-#### Analytic torsion for Witten Laplacian on noncompact manifolds
-This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
-#### Nonsemiclassical Weyl's law on noncompact manifolds
-This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
-#### BCOV torsion for LG models
-This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/) and [Xinxing Tang](http://ymsc.tsinghua.edu.cn/en/content/show/146-253.html).
-#### Renormalization theory and its application to BCOV theory
-This is a joint project with [Si Li](https://sili-math.github.io/).
 ### Publications and Preprints
 #### Accepted or published
 1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232)
@@ -43,6 +34,18 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 4. Xianzhe Dai and Junrong Yan. The Non-semiclassical Weyl's Law for Schrodinger Operators
 on Non-compact Manifolds
 5. Xinxing Tang and Junrong Yan. Weil-Peterson Metric in the Landau-Ginzburg B-Models
+
+### Here are the projects that I am currently working on
+
+#### Analytic torsion for Witten Laplacian on noncompact manifolds
+This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
+#### Nonsemiclassical Weyl's law on noncompact manifolds
+This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
+#### BCOV torsion for LG models
+This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/) and [Xinxing Tang](http://ymsc.tsinghua.edu.cn/en/content/show/146-253.html).
+#### Renormalization theory and its application to BCOV theory
+This is a joint project with [Si Li](https://sili-math.github.io/).
+
 <div><a name="R3"></a>
  </div>
  
