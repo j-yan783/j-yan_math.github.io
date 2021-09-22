@@ -2,4 +2,3 @@ motheme: jekyll-theme-cayman
 use_math: true
 layout: post # 默认是default，跟_layouts目录下的default.html文件对应，可以通过_config.yml的defaults字段配置默认设置
 title: Welcome to Junrong Yan's homepage
-subtitle: UCSB
