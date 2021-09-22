@@ -1,6 +1,5 @@
 
 
-# Welcome to Junrong Yan's homepage
 [About me](#R1)&emsp;&emsp;&emsp;&emsp;&emsp; [Research](#R2)&emsp;&emsp;&emsp;&emsp;&emsp; [Teaching](#R3)&emsp;&emsp;&emsp;&emsp; &emsp;[Non-Academic](#R4)
 <div><a name="R1"></a>
 </div>
