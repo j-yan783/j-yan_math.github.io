@@ -37,12 +37,12 @@ on Non-compact Manifolds
 
 ### Here are the projects that I am currently working on
 
-#### Analytic torsion for Witten Laplacian on noncompact manifolds
+#### Witten Laplacian on noncompact manifolds
 This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
-#### Nonsemiclassical Weyl's law on noncompact manifolds
+#### Weyl's law on noncompact manifolds
 This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 #### BCOV torsion for LG models
-This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/) and [Xinxing Tang](http://ymsc.tsinghua.edu.cn/en/content/show/146-253.html).
+This is in various parts joint with with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/) and [Xinxing Tang](http://ymsc.tsinghua.edu.cn/en/content/show/146-253.html).
 #### Renormalization theory and its application to BCOV theory
 This is a joint project with [Si Li](https://sili-math.github.io/).
 
