@@ -12,7 +12,7 @@ I am currently a Ph. D. candidate at University of California, Santa Barbara, si
 
 ### Email Address: 
 [j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
-### [Curriculum Vitae](https://www.overleaf.com/read/pxgrhxnkhwmj)
+### [Curriculum Vitae](Junrong_Yan_s_CV (1).pdf)
 
 Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimming.
 <div><a name="R2"></a>
