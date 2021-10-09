@@ -22,8 +22,6 @@ Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimmi
 ## Research
 
 My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I attempt to understand QFT and string theory from index theoretic point of view. See my [Research Statement](Research_Statement (2).pdf) for more details.
-### A picture on the front cover of _Quantum Fields and Strings_
-<img src="1.png" width="60%"> 
 
 ### Publications and Preprints
 #### Accepted or published
@@ -76,12 +74,15 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 <div><a name="R4"></a>
  </div>
  
-## Non-academic stuff
+## Some pictures
 
 ### My cat is doing diagram chasing
 <img src="WechatIMG4.jpeg" width="60%"> 
 
 ### My cat is reading a paper 
 <img src="WechatIMG5.jpeg" width="60%">   
+
+### A picture on the front cover of _Quantum Fields and Strings_
+<img src="1.png" width="60%"> 
 
 
