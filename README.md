@@ -1,6 +1,6 @@
 
 
-[About me](#R1)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Research](#R2)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Teaching](#R3)&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;[Non-Academic](#R4)
+[About me](#R1)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Research](#R2)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Teaching](#R3)&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;[Some pictures](#R4)
 <div><a name="R1"></a>
 </div>
 
@@ -10,7 +10,7 @@ I started my undergraduate training in 2013 at School of Mathematical Science, N
 
 I am currently a Ph. D. candidate at University of California, Santa Barbara, since 2017. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 
-### Email Address: 
+### Email Address 
 [j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
 ### Curriculum Vitae
 Click [here.](Junrong_Yan_s_CV (1).pdf)
