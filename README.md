@@ -23,7 +23,7 @@ Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimmi
 
 My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I attempt to understand QFT and string theory from index theoretic point of view. See my [Research Statement](Research_Statement (2).pdf) for more details.
 
-<img src="WechatIMG4.jpeg" width="60%"> 
+<img src="1.png" width="60%"> 
 
 ### Publications and Preprints
 #### Accepted or published
