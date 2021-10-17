@@ -25,10 +25,10 @@ My main interests are geometric analysis, PDEs and mathematical physics. More co
 
 ### Publications and Preprints
 #### Accepted or published
-1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232)
+1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232)，1-38 (2021)
 
 #### Preprints
-2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [ArXiv](https://arxiv.org/abs/2011.05468)
+2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [ArXiv:2011.05468](https://arxiv.org/abs/2011.05468), 1-31 (2020)
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Analytic Torsion for Witten Deformation on Non-compact Manifold
