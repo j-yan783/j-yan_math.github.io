@@ -69,7 +69,7 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 9. _Math 6A: Vector Calculus_, Winter 2021
 10. _Math 6A: Vector Calculus_, Spring 2021
 
-### Grader
+### Reader
 1. _Math 117: Methods of Analysis_, Fall 2017
 2. _Math 108B: Introduction to Linear Algebra_, Winter 2018
 3. _Math 117: Methods of Analysis_, Fall 2019
