@@ -78,10 +78,13 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
  
 ## Some pictures
 
-### My cat is doing diagram chasing
+### This is Sardine, say hi
+<img src="21635228754_.pic.jpg" width="60%">
+
+### Sardine is doing diagram chasing
 <img src="WechatIMG4.jpeg" width="60%"> 
 
-### My cat is reading a paper 
+### Sardine is reviewing my a paper 
 <img src="WechatIMG5.jpeg" width="60%">   
 
 ### A picture on the front cover of _Quantum Fields and Strings_
