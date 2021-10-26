@@ -84,7 +84,7 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 ### Sardine is doing diagram chasing
 <img src="WechatIMG4.jpeg" width="60%"> 
 
-### Sardine is reviewing my a paper 
+### Sardine is reviewing my paper 
 <img src="WechatIMG5.jpeg" width="60%">  
 
 ### Sardine is charging
