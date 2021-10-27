@@ -76,6 +76,8 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 <div><a name="R4"></a>
  </div>
  
+
+ 
 ## Some pictures
 
 ### This is Sardine, say hi
@@ -92,5 +94,11 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 
 ### A picture on the front cover of _Quantum Fields and Strings_
 <img src="1.png" width="60%"> 
+
+ <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+      </footer>
+    </div>
 
 
