@@ -96,5 +96,4 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 <img src="1.png" width="60%"> 
 
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+![](https://komarev.com/ghpvc/?username=j-yan78)
