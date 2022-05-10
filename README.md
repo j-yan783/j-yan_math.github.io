@@ -93,7 +93,4 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 <img src="IMG_20201113_130746.jpg" width="60%">
 
 ### A picture on the front cover of _Quantum Fields and Strings_
-<img src="1.png" width="60%"> 
-
-
-![](https://komarev.com/ghpvc/?username=j-yan783)
+<img src="1.png" width="60%">
