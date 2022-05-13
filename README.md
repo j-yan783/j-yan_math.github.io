@@ -31,7 +31,7 @@ My main interests are geometric analysis, PDEs and mathematical physics. More co
 
 #### Preprints
 2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [ArXiv:2011.05468](https://arxiv.org/abs/2011.05468), 31 pages
-3. Xinxing Tang and Junrong Yan. Calabi-Yau/Landau-Ginzburg Correspondence for Weil-Peterson Metrics and tt<sup>∗<\sup> Structures, [ArXiv:2205.05791](https://arxiv.org/abs/2205.05791), 34 pages
+3. Xinxing Tang and Junrong Yan. Calabi-Yau/Landau-Ginzburg Correspondence for Weil-Peterson Metrics and tt<sup>∗</sup> Structures, [ArXiv:2205.05791](https://arxiv.org/abs/2205.05791), 34 pages
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Analytic Torsion for Witten Deformation on Non-compact Manifold
