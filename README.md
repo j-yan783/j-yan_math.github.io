@@ -10,7 +10,7 @@ I started my undergraduate training in 2013 at School of Mathematical Science, N
 
 I am currently a Ph. D. candidate at University of California, Santa Barbara, since 2017. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 
-Starting in the fall of 2022, I'll be a postdoctoral fellow at Beijing International Center for Mathematical Research (BICMR).
+Starting in the fall of 2022, I'll be a postdoctoral fellow at Beijing International Center for Mathematical Research (BICMR), Peking University, Beijing, China.
 
 ### Email Address 
 [j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
