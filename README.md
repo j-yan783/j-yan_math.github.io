@@ -12,6 +12,9 @@ I am currently a Ph. D. candidate at University of California, Santa Barbara, si
 
 Starting in the fall of 2022, I'll be a postdoctoral fellow at Beijing International Center for Mathematical Research (BICMR), Peking University, Beijing, China.
 
+<table><tr><td><img src="http://math.jhu.edu/~savitt/GTM/serrelrfg.jpg" width=92 height=140 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be J.-P. Serre's <b><i>Linear Representations of Finite Groups</i></b>.</p><p> My creator is a Professor at the College de France.  He has previously published a number of books, including Groupes Algebriques et Corps de Classes, Corps Locaux, and Cours d'Arithmetique (A Course in Arithmetic, published by Springer-Verlag as Vol. 7 in the Graduate Texts in Mathematics). </p><p>Which Springer GTM would <i>you</i> be?  <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>
+
+
 ### Email Address 
 [j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
 ### Curriculum Vitae
