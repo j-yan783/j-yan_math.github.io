@@ -43,6 +43,9 @@ My main interests are geometric analysis, PDEs and mathematical physics. More co
 4. Xianzhe Dai and Junrong Yan. The Non-semiclassical Weyl's Law for Schrodinger Operators
 on Non-compact Manifolds
 
+#### My Thesis
+Click [here](dissertation (3).pdf)
+
 
 ### Here are the projects that I am currently working on
 
