@@ -4,7 +4,8 @@
 <div><a name="R1"></a>
 </div>
 
-## About me.
+## About me
+<img align="right" src="We2.jpeg"/>
 
 I started my undergraduate training in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
 
