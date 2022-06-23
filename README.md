@@ -92,7 +92,7 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 ## Some pictures
 
 ### My Sweetheart
-<img src="71654760882_.pic_hd.jpg" width="60%">
+<img src="31655976471_.pic.jpg" width="60%">
 
 ### This is Sardine, say hi
 <img src="21635228754_.pic.jpg" width="60%">
