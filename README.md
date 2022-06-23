@@ -1,5 +1,5 @@
 [About me](#R1)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Research](#R2)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-*[Teaching](#R3)&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;*
+[Teaching](#R3)&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;
 [Some pictures](#R4)&emsp;
 <div><a name="R1"></a>
 </div>
@@ -62,27 +62,27 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 <div><a name="R3"></a>
  </div>
  
-*## Teaching*
+## Teaching
 
-*### Instructor*
-*1. _Math 3B: Calculus with Applications_, Summer 2021
+### Instructor
+1. _Math 3B: Calculus with Applications_, Summer 2021
 
-*### Teaching Assistant
-*1. _Math 8: Transitions to Higher Mathematics_, Spring 2018
-*2. _Math 8: Transitions to Higher Mathematics_, Fall 2018
-*3. _Math 6B: Vector Calculus_, Winter 2019
-*4. _Math 34B: Calculus for Social and Life Sciences_, Spring 2019
-*5. _Math 6A: Vector Calculus_, Fall 2019
-*6. _Math 6A: Vector Calculus_, Winter 2020
-*7. _Math 6A: Vector Calculus_, Summer 2020
-*8. _Math 8: Transitions to Higher Mathematics_,  Fall 2020
-*9. _Math 6A: Vector Calculus_, Winter 2021
-*10. _Math 6A: Vector Calculus_, Spring 2021
+### Teaching Assistant
+1. _Math 8: Transitions to Higher Mathematics_, Spring 2018
+2. _Math 8: Transitions to Higher Mathematics_, Fall 2018
+3. _Math 6B: Vector Calculus_, Winter 2019
+4. _Math 34B: Calculus for Social and Life Sciences_, Spring 2019
+5. _Math 6A: Vector Calculus_, Fall 2019
+6. _Math 6A: Vector Calculus_, Winter 2020
+7. _Math 6A: Vector Calculus_, Summer 2020
+8. _Math 8: Transitions to Higher Mathematics_,  Fall 2020
+9. _Math 6A: Vector Calculus_, Winter 2021
+10. _Math 6A: Vector Calculus_, Spring 2021
 
-*### Reader
-*1. _Math 117: Methods of Analysis_, Fall 2017
-*2. _Math 108B: Introduction to Linear Algebra_, Winter 2018
-*3. _Math 117: Methods of Analysis_, Fall 2019
+### Reader
+1. _Math 117: Methods of Analysis_, Fall 2017
+2. _Math 108B: Introduction to Linear Algebra_, Winter 2018
+3. _Math 117: Methods of Analysis_, Fall 2019
 
 <div><a name="R4"></a>
  </div>
