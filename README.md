@@ -1,5 +1,5 @@
 [About me](#R1)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Research](#R2)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-;[Teaching](#R3)&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;
+<![Teaching](#R3)&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;>
 [Some pictures](#R4)&emsp;
 <div><a name="R1"></a>
 </div>
@@ -62,7 +62,7 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 <div><a name="R3"></a>
  </div>
  
-;## Teaching
+<!## Teaching
 
 ;### Instructor
 ;1. _Math 3B: Calculus with Applications_, Summer 2021
@@ -83,6 +83,7 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 ;1. _Math 117: Methods of Analysis_, Fall 2017
 ;2. _Math 108B: Introduction to Linear Algebra_, Winter 2018
 ;3. _Math 117: Methods of Analysis_, Fall 2019
+>
 <div><a name="R4"></a>
  </div>
  
