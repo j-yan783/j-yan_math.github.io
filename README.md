@@ -62,7 +62,9 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 
 <div><a name="R21"></a>
  </div>
+ 
 ## Notes
+
 1. My Guest lecture on [Index Theorem, Positive Scalar Curvature and Enlargibility](Nots1.pdf) in Prof. Dai's [Math 241C, 2022 Spring](Nptes2.pdf).
 
 
