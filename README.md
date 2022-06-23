@@ -1,4 +1,5 @@
 [About me](#R1)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Research](#R2)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+[Notes](#R21)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [Teaching](#R3)&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;
 [Some pictures](#R4)&emsp;
 <div><a name="R1"></a>
@@ -58,6 +59,12 @@ This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 This is in various parts joint with with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/) and [Xinxing Tang](http://ymsc.tsinghua.edu.cn/en/content/show/146-253.html).
 #### Renormalization theory and its application to BCOV theory
 This is a joint project with [Si Li](https://sili-math.github.io/).
+
+<div><a name="R21"></a>
+ </div>
+## Notes
+1. My Guest lecture on [Index Theorem, Positive Scalar Curvature and Enlargibility](Nots1.pdf) in Prof. Dai's [Math 241C, 2022 Spring](Nptes2.pdf).
+
 
 <div><a name="R3"></a>
  </div>
