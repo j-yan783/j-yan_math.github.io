@@ -65,8 +65,8 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
  
 ## Notes
 
-1. Notes on [Connes Fiberation](Note3.pdf)
-2. My Guest lecture on [Index Theorem, Positive Scalar Curvature and Enlargibility](Nots1.pdf) in Prof. Dai's [Math 241C, 2022 Spring](Nptes2.pdf).
+1. Notes on [Connes Fiberation](Notes3.pdf)
+2. My Guest lecture on [Index Theorem, Positive Scalar Curvature and Enlargibility](Notes1.pdf) in Prof. Dai's [Math 241C, 2022 Spring](Notes2.pdf).
 
 
 <div><a name="R3"></a>
