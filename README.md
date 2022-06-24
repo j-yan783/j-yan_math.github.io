@@ -70,7 +70,7 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 2. Prof. Dai's lecture on [Determinants, Analytic Torsion, and Mirror Symmetry](Notes4.pdf)
 3. Notes on [String and String field theory](Notes5.pdf)(To be continued)
 4. My Guest lecture on [Index Theorem, Positive Scalar Curvature and Enlargibility](Notes1.pdf) in Prof. Dai's [Math 241C, 2022 Spring](Notes2.pdf).
-
+5. Notes on [Heat kernel on Vector Bundles](Notes6.pdf)
 
 <div><a name="R3"></a>
  </div>
