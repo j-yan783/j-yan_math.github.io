@@ -68,7 +68,8 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
 
 1. Notes on [Connes Fiberation](Notes3.pdf)
 2. Prof. Dai's lecture on [Determinants, Analytic Torsion, and Mirror Symmetry](Notes4.pdf)
-3. My Guest lecture on [Index Theorem, Positive Scalar Curvature and Enlargibility](Notes1.pdf) in Prof. Dai's [Math 241C, 2022 Spring](Notes2.pdf).
+3. Notes on [String and String field theory](Notes5.pdf)(To be continued)
+4. My Guest lecture on [Index Theorem, Positive Scalar Curvature and Enlargibility](Notes1.pdf) in Prof. Dai's [Math 241C, 2022 Spring](Notes2.pdf).
 
 
 <div><a name="R3"></a>
