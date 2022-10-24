@@ -105,8 +105,6 @@ This is a joint project with [Si Li](https://sili-math.github.io/).
  
 ## Some pictures
 
-### My Sweetheart
-<img src="41655976828_.pic.jpg" width="60%">
 
 ### This is Sardine, say hi
 <img src="21635228754_.pic.jpg" width="60%">
