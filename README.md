@@ -10,7 +10,7 @@
 
 I started my undergraduate training in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
 
-I was a Ph. D. candidate at University of California, Santa Barbara, since 2017. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
+I earned my Ph. D. degree at University of California, Santa Barbara in 2022. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 
  I am a postdoctoral fellow at Beijing International Center for Mathematical Research (BICMR), Peking University, Beijing, China. My mentor is [Xiaobo Liu](https://bicmr.pku.edu.cn/~xbliu/).
 
