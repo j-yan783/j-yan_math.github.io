@@ -20,7 +20,7 @@ I earned my Ph. D. degree at University of California, Santa Barbara in 2022. My
 ### Email Address 
 [j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
 ### Curriculum Vitae
-Click [here.](Junrong_Yan_s_CV (2).pdf)
+Click [here.](Junrong_Yan_s_CV (1).pdf)
 ### Research Statement
 Click [here.](Research_Statement (2).pdf)
 
@@ -35,30 +35,30 @@ My main interests are geometric analysis, PDEs and mathematical physics. More co
 ### Publications and Preprints
 #### Accepted or published
 1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232)，1-38 (2020)
+2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [Math. Z.](https://link.springer.com/article/10.1007/s00209-022-03150-0), 31 pages
 
 #### Preprints
-2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [ArXiv:2011.05468](https://arxiv.org/abs/2011.05468), 31 pages
+
 3. Xinxing Tang and Junrong Yan. Calabi-Yau/Landau-Ginzburg Correspondence for Weil-Peterson Metrics and tt<sup>∗</sup> Structures, [ArXiv:2205.05791](https://arxiv.org/abs/2205.05791), 34 pages
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Analytic Torsion for Witten Deformation on Non-compact Manifold
 4. Xianzhe Dai and Junrong Yan. The Non-semiclassical Weyl's Law for Schrodinger Operators
 on Non-compact Manifolds
+5. Junrong Yan. Witten deformation for non-Morse Functions and gluing formula for analytic torsions
+6. Junrong Yan. A new analytic proof of gluing formula for analytic torsion forms
 
 #### My Thesis
 Click [here](dissertation (3).pdf)
 
 
 ### Here are the projects that I am currently working on
-
-#### Witten Laplacian on noncompact manifolds
-This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
-#### Weyl's law on noncompact manifolds
+#### Gluing formula for Global invariants
+#### Weyl's law on metric geometry
 This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 #### BCOV torsion for LG models
 This is in various parts joint with with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/) and [Xinxing Tang](http://ymsc.tsinghua.edu.cn/en/content/show/146-253.html).
-#### Renormalization theory and its application to BCOV theory
-This is a joint project with [Si Li](https://sili-math.github.io/).
+
 
 <div><a name="R21"></a>
  </div>
