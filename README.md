@@ -40,13 +40,14 @@ My main interests are geometric analysis, PDEs and mathematical physics. More co
 #### Preprints
 
 3. Xinxing Tang and Junrong Yan. Calabi-Yau/Landau-Ginzburg Correspondence for Weil-Peterson Metrics and tt<sup>∗</sup> Structures, [ArXiv:2205.05791](https://arxiv.org/abs/2205.05791), 34 pages
-4. Junrong Yan. Witten deformation for non-Morse Functions and gluing formula for analytic torsions, [arXiv:2301.01990](https://arxiv.org/abs/2301.01990), 39 pages
+4. Junrong Yan. Witten deformation for non-Morse Functions and gluing formula for analytic torsions, [ArXiv:2301.01990](https://arxiv.org/abs/2301.01990), 39 pages
+5. Junrong Yan. A new analytic proof of gluing formula for analytic torsion forms, [ArXiv:2301.02591](https://arxiv.org/abs/2301.02591), 38 pages
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Analytic Torsion for Witten Deformation on Non-compact Manifold
 4. Xianzhe Dai and Junrong Yan. The Non-semiclassical Weyl's Law for Schrodinger Operators
 on Non-compact Manifolds
-5. Junrong Yan. A new analytic proof of gluing formula for analytic torsion forms
+
 
 #### My Thesis
 Click [here](dissertation (3).pdf)
