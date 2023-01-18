@@ -1,7 +1,6 @@
 [About me](#R1)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Research](#R2)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [Notes](#R21)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [Teaching](#R3)&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;
-[Some pictures](#R4)&emsp;
 <div><a name="R1"></a>
 </div>
 
@@ -103,24 +102,7 @@ This is in various parts joint with with [Xianzhe Dai](http://web.math.ucsb.edu/
  </div>
  
 
- 
-## Some pictures
 
-
-### This is Sardine, say hi
-<img src="21635228754_.pic.jpg" width="60%">
-
-### Sardine is doing diagram chasing
-<img src="WechatIMG4.jpeg" width="60%"> 
-
-### Sardine is reviewing my paper 
-<img src="WechatIMG5.jpeg" width="60%">  
-
-### Sardine is charging
-<img src="IMG_20201113_130746.jpg" width="60%">
-
-### A picture on the front cover of _Quantum Fields and Strings_
-<img src="1.png" width="60%">
 
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
