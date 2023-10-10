@@ -18,7 +18,7 @@ I earned my Ph. D. degree at University of California, Santa Barbara in 2022. My
 ### Email Address 
 [j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
 ### Curriculum Vitae
-Click [here.](Junrong_Yan_s_CV (1).pdf)
+Click [here.](CV.pdf)
 ### Research Statement
 Click [here.](Research_Statement .pdf)
 
