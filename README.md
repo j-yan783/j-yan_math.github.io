@@ -20,7 +20,7 @@ I earned my Ph. D. degree at University of California, Santa Barbara in 2022. My
 ### Curriculum Vitae
 Click [here.](Junrong_Yan_s_CV (1).pdf)
 ### Research Statement
-Click [here.](Research_Statement (2).pdf)
+Click [here.](Research_Statement .pdf)
 
 Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimming.
 <div><a name="R2"></a>
@@ -28,7 +28,7 @@ Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimmi
 
 ## Research
 
-My main interests are geometric analysis, PDEs and mathematical physics. More concretely, I attempt to understand QFT and string theory from index theoretic point of view. See my [Research Statement](Research_Statement (2).pdf) for more details.
+My main interests are geometric analysis, PDEs and mathematical physics. More concretely, my current research focuses on the geometry and topology of the Landau-Ginzburg (LG) models, gluing formula of global spectral invariants and comparison geometry of hypersurfaces. See my [Research Statement](Research_Statement .pdf) for more details.
 
 ### Publications and Preprints
 #### Accepted or published
