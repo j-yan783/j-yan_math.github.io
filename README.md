@@ -5,7 +5,7 @@
 </div>
 
 ## About me.
-<img align="right" src="61654738063_.pic.jpg" width="20%"/>
+<img align="right" src="微信图片_20231010235505.jpg" width="20%"/>
 
 I started my undergraduate training in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
 
