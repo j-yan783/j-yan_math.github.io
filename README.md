@@ -32,7 +32,7 @@ My main interests are geometric analysis, PDEs and mathematical physics. More co
 
 ### Publications and Preprints
 #### Accepted or published
-1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232)，1-38 (2020)
+1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232)，38 pages
 2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [Math. Z.](https://link.springer.com/article/10.1007/s00209-022-03150-0), 31 pages
 
 #### Preprints
@@ -40,6 +40,8 @@ My main interests are geometric analysis, PDEs and mathematical physics. More co
 3. Xinxing Tang and Junrong Yan. Calabi-Yau/Landau-Ginzburg Correspondence for Weil-Peterson Metrics and tt<sup>∗</sup> Structures, [ArXiv:2205.05791](https://arxiv.org/abs/2205.05791), 34 pages
 4. Junrong Yan. Witten deformation for non-Morse Functions and gluing formula for analytic torsions, [ArXiv:2301.01990](https://arxiv.org/abs/2301.01990), 39 pages
 5. Junrong Yan. A new analytic proof of gluing formula for analytic torsion forms, [ArXiv:2301.02591](https://arxiv.org/abs/2301.02591), 38 pages
+6. Fagui Li and Junrong Yan. A first eigenvalue estimate for embedded hypersurfaces in positive Ricci curvature
+manifolds. [ArXiv:2308.02803](https://arxiv.org/abs/2308.02803), 10 pages
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Analytic Torsion for Witten Deformation on Non-compact Manifold
