@@ -54,6 +54,8 @@ Click [here](dissertation (3).pdf)
 
 
 ### Here are the projects that I am currently working on
+#### Higher Cheeger-Mueller/Bismut-Zhang Theorem
+This is a joint project with [Martin Puchol](https://puchol.perso.math.cnrs.fr/index_ENG.html) and [Yeping Zhang](https://sites.google.com/view/yepingzhang).
 #### Gluing formula for Global invariants
 #### Weyl's law on metric geometry
 This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
