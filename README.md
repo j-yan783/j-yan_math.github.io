@@ -13,7 +13,7 @@ I ontained my Ph. D. degree at University of California, Santa Barbara in 2022. 
 
  I am a postdoctoral fellow at Beijing International Center for Mathematical Research (BICMR), Peking University, Beijing, China. My mentor is [Xiaobo Liu](https://bicmr.pku.edu.cn/~xbliu/).
 
- Beginning in the fall of 2024, I will start my postdoctoral position at Northeastern University under the supervision [Maxim Braverman](https://cos.northeastern.edu/people/maxim-braverman/).
+ Beginning in the fall of 2024, I will start my postdoctoral position at Northeastern University under the supervision of [Maxim Braverman](https://cos.northeastern.edu/people/maxim-braverman/).
 
 
 
