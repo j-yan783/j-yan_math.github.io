@@ -7,18 +7,20 @@
 ## About me.
 <img align="right" src="微信图片_20231010235505.jpg" width="20%"/>
 
-I started my undergraduate training in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
+I started my undergraduate study in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
 
-I earned my Ph. D. degree at University of California, Santa Barbara in 2022. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
+I ontained my Ph. D. degree at University of California, Santa Barbara in 2022. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 
  I am a postdoctoral fellow at Beijing International Center for Mathematical Research (BICMR), Peking University, Beijing, China. My mentor is [Xiaobo Liu](https://bicmr.pku.edu.cn/~xbliu/).
+
+ Beginning in the fall of 2024, I will start my postdoctoral position at Northeastern University under the supervision [Maxim Braverman](https://cos.northeastern.edu/people/maxim-braverman/).
 
 
 
 ### Email Address 
 [j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
 ### Curriculum Vitae
-Click [here.](CV .pdf)
+Click [here.](CV(updated).pdf)
 ### Research Statement
 Click [here.](Research_Statement .pdf)
 
@@ -28,7 +30,7 @@ Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimmi
 
 ## Research
 
-My main interests are geometric analysis, PDEs and mathematical physics. More concretely, my current research focuses on the geometry and topology of the Landau-Ginzburg (LG) models, gluing formula of global spectral invariants and comparison geometry of hypersurfaces. See my [Research Statement](Research_Statement .pdf) for more details.
+My main interests are geometric analysis and PDEs. More concretely, my current research focuses on the geometry and topology of the Landau-Ginzburg (LG) models, gluing formula of global spectral invariants and comparison geometry of hypersurfaces. See my [Research Statement](Research_Statement .pdf) for more details.
 
 ### Publications and Preprints
 #### Accepted or published
