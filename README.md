@@ -43,7 +43,8 @@ My main interests are geometric analysis and PDEs. More concretely, my current r
 4. Junrong Yan. Witten deformation for non-Morse Functions and gluing formula for analytic torsions, [ArXiv:2301.01990](https://arxiv.org/abs/2301.01990), 39 pages
 5. Junrong Yan. A new analytic proof of gluing formula for analytic torsion forms, [ArXiv:2301.02591](https://arxiv.org/abs/2301.02591), 38 pages
 6. Fagui Li and Junrong Yan. A first eigenvalue estimate for embedded hypersurfaces in positive Ricci curvature
-manifolds. [ArXiv:2308.02803](https://arxiv.org/abs/2308.02803), 10 pages
+manifolds, [ArXiv:2308.02803](https://arxiv.org/abs/2308.02803), 10 pages
+7. Martin Puchol and Junrong Yan. Generalized Morse Functions, Excision and Higher Torsions, [ArXiv:2407.17100](https://arxiv.org/abs/2407.17100), 107 pages
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Analytic Torsion for Witten Deformation on Non-compact Manifold
