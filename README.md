@@ -18,7 +18,7 @@ I ontained my Ph. D. degree at University of California, Santa Barbara in 2022. 
 
 
 ### Email Address 
-[j_yan@math.ucsb.edu](j_yan@math.ucsb.edu) 
+[j.yan@northeastern.edu](j.yan@northeastern.edu) 
 ### Curriculum Vitae
 Click [here.](CV(updated).pdf)
 ### Research Statement
