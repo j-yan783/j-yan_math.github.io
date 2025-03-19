@@ -11,9 +11,9 @@ I started my undergraduate study in 2013 at School of Mathematical Science, Nank
 
 I ontained my Ph. D. degree at University of California, Santa Barbara in 2022. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 
- I am a postdoctoral fellow at Beijing International Center for Mathematical Research (BICMR), Peking University, Beijing, China. My mentor is [Xiaobo Liu](https://bicmr.pku.edu.cn/~xbliu/).
+ I was a postdoctoral fellow at Beijing International Center for Mathematical Research (BICMR), Peking University, under the supervision of [Xiaobo Liu](https://bicmr.pku.edu.cn/~xbliu/).
 
- Beginning in the fall of 2024, I will start my postdoctoral position at Northeastern University under the supervision of [Maxim Braverman](https://cos.northeastern.edu/people/maxim-braverman/).
+  I am curretnly a postdoc at Northeastern University under the supervision of [Maxim Braverman](https://cos.northeastern.edu/people/maxim-braverman/).
 
 
 
