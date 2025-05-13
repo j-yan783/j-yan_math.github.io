@@ -40,17 +40,17 @@ My main interests are geometric analysis and PDEs. More concretely, my current r
 #### Preprints
 
 3. Xinxing Tang and Junrong Yan. Calabi-Yau/Landau-Ginzburg Correspondence for Weil-Peterson Metrics and tt<sup>∗</sup> Structures, [ArXiv:2205.05791](https://arxiv.org/abs/2205.05791), 34 pages
-4. Junrong Yan. Witten deformation for non-Morse Functions and gluing formula for analytic torsions, [ArXiv:2301.01990](https://arxiv.org/abs/2301.01990), 39 pages
-5. Junrong Yan. A new analytic proof of gluing formula for analytic torsion forms, [ArXiv:2301.02591](https://arxiv.org/abs/2301.02591), 38 pages
-6. Fagui Li and Junrong Yan. A first eigenvalue estimate for embedded hypersurfaces in positive Ricci curvature
-manifolds, [ArXiv:2308.02803](https://arxiv.org/abs/2308.02803), 10 pages
+4. Junrong Yan. Witten Deformation for Non-Morse Functions and Gluing Formula for Analytic Torsions, [ArXiv:2301.01990](https://arxiv.org/abs/2301.01990), 39 pages
+5. Junrong Yan. A New Analytic Proof of Gluing Formula for Analytic Torsion Forms, [ArXiv:2301.02591](https://arxiv.org/abs/2301.02591), 38 pages
+6. Fagui Li and Junrong Yan. A First Eigenvalue Estimate for Embedded Hypersurfaces in Positive Ricci Curvature
+Manifolds, [ArXiv:2308.02803](https://arxiv.org/abs/2308.02803), 10 pages
 7. Martin Puchol and Junrong Yan. Generalized Morse Functions, Excision and Higher Torsions, [ArXiv:2407.17100](https://arxiv.org/abs/2407.17100), 107 pages
-8. Xianzhe Dai and Junrong Yan. Heat Kernel Approach to the Weyl Law for Schrödinger Operators on Non-compact Manifolds,[ArXiv: 2504.15551](https://arxiv.org/abs/2504.15551), 20 pages
+8. Xianzhe Dai and Junrong Yan. Heat Kernel Approach to the Weyl Law for Schrödinger Operators on Non-compact Manifolds, [ArXiv:2504.15551](https://arxiv.org/abs/2504.15551), 20 pages
+9. Maxim Braverman, Ahmad Reza Haj Saeedi Sadegh and Junrong Yan. A Gluing Formula for the Z<sub>2</sub>-valued Index of Odd Symmetric Operators, [Arxiv:2505.07094](https://arxiv.org/abs/2505.07094), 18 pages
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Analytic Torsion for Witten Deformation on Non-compact Manifold
-4. Xianzhe Dai and Junrong Yan. The Non-semiclassical Weyl's Law for Schrodinger Operators
-on Non-compact Manifolds
+
 
 
 #### My Thesis
