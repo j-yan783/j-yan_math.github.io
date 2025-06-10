@@ -36,10 +36,11 @@ My main interests are geometric analysis and PDEs. More concretely, my current r
 #### Accepted or published
 1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232)，38 pages
 2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [Math. Z.](https://link.springer.com/article/10.1007/s00209-022-03150-0), 31 pages
+3. Xinxing Tang and Junrong Yan. CY/LG correspondence for Weil-Petersson metrics and tt<sup>⁎</sup> structures, [Journal of Geometry and Physics](https://www.sciencedirect.com/science/article/pii/S0393044025001299), 34 pages
 
 #### Preprints
 
-3. Xinxing Tang and Junrong Yan. Calabi-Yau/Landau-Ginzburg Correspondence for Weil-Peterson Metrics and tt<sup>∗</sup> Structures, [ArXiv:2205.05791](https://arxiv.org/abs/2205.05791), 34 pages
+
 4. Junrong Yan. Witten Deformation for Non-Morse Functions and Gluing Formula for Analytic Torsions, [ArXiv:2301.01990](https://arxiv.org/abs/2301.01990), 39 pages
 5. Junrong Yan. A New Analytic Proof of Gluing Formula for Analytic Torsion Forms, [ArXiv:2301.02591](https://arxiv.org/abs/2301.02591), 38 pages
 6. Fagui Li and Junrong Yan. A First Eigenvalue Estimate for Embedded Hypersurfaces in Positive Ricci Curvature
