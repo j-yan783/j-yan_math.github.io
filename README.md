@@ -1,5 +1,4 @@
 [About me](#R1)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Research](#R2)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-[Notes](#R21)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [Teaching](#R3)&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;
 <div><a name="R1"></a>
 </div>
@@ -68,18 +67,9 @@ This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 This is in various parts joint with with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/) and [Xinxing Tang](http://ymsc.tsinghua.edu.cn/en/content/show/146-253.html).
 
 
-<div><a name="R21"></a>
- </div>
+
  
-## Notes
 
-
-1. Notes on [Connes Fiberation](Notes3.pdf)
-2. Prof. Dai's lecture on [Determinants, Analytic Torsion, and Mirror Symmetry](Notes4.pdf)
-3. Notes on [String and String field theory](Notes5.pdf)(To be continued)
-4. My Guest lecture on [Index Theorem, Positive Scalar Curvature and Enlargibility](Notes1.pdf) in Prof. Dai's [Math 241C, 2022 Spring](Notes2.pdf).
-5. Notes on [Heat kernel on Vector Bundles](Notes6.pdf)
-6. Notes on [Unbounded operators in Hilbert Space, min-max principle and EPDEs](Notes7.pdf)
 
 <div><a name="R3"></a>
  </div>
