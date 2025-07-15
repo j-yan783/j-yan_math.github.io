@@ -46,7 +46,8 @@ My main interests are geometric analysis and PDEs. More concretely, my current r
 Manifolds, [ArXiv:2308.02803](https://arxiv.org/abs/2308.02803), 10 pages
 7. Martin Puchol and Junrong Yan. Generalized Morse Functions, Excision and Higher Torsions, [ArXiv:2407.17100](https://arxiv.org/abs/2407.17100), 107 pages
 8. Xianzhe Dai and Junrong Yan. Heat Kernel Approach to the Weyl Law for Schrödinger Operators on Non-compact Manifolds, [ArXiv:2504.15551](https://arxiv.org/abs/2504.15551), 20 pages
-9. Maxim Braverman, Ahmad Reza Haj Saeedi Sadegh and Junrong Yan. A Gluing Formula for the Z<sub>2</sub>-valued Index of Odd Symmetric Operators, [Arxiv:2505.07094](https://arxiv.org/abs/2505.07094), 18 pages
+9. Maxim Braverman, Ahmad Reza Haj Saeedi Sadegh and Junrong Yan. A Gluing Formula for the Z<sub>2</sub>-valued Index of Odd Symmetric Operators, [ArXiv:2505.07094](https://arxiv.org/abs/2505.07094), 18 pages
+10. Minghao Wang and Junrong Yan. Feynman Graph Integrals on Kähler Manifolds, [ArXiv:2507.09170])(https://arxiv.org/abs/2507.09170), 49 pages
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Analytic Torsion for Witten Deformation on Non-compact Manifold
