@@ -63,7 +63,7 @@ Click [here](dissertation (3).pdf)
 This is a joint project with [Martin Puchol](https://puchol.perso.math.cnrs.fr/index_ENG.html) and [Yeping Zhang](https://sites.google.com/view/yepingzhang).
 #### Gluing formula for Global invariants
 #### Weyl's law on metric geometry
-This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
+This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/) and [Maxim Braverman](https://cos.northeastern.edu/people/maxim-braverman/).
 #### BCOV torsion for LG models
 This is in various parts joint with with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/) and [Xinxing Tang](http://ymsc.tsinghua.edu.cn/en/content/show/146-253.html).
 #### Feynman graph integral
