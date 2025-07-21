@@ -66,6 +66,8 @@ This is a joint project with [Martin Puchol](https://puchol.perso.math.cnrs.fr/i
 This is a joint project with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 #### BCOV torsion for LG models
 This is in various parts joint with with [Xianzhe Dai](http://web.math.ucsb.edu/~dai/) and [Xinxing Tang](http://ymsc.tsinghua.edu.cn/en/content/show/146-253.html).
+#### Feynman graph integral
+This is a joint project with [Minghao Wang](https://www.bu.edu/math/profile/minghao-wang/)
 
 
 
