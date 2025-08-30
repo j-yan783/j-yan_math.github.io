@@ -45,7 +45,7 @@ My main research interests are in geometric analysis, QFT, and PDE. In particula
 6. Fagui Li and Junrong Yan. A First Eigenvalue Estimate for Embedded Hypersurfaces in Positive Ricci Curvature
 Manifolds, [ArXiv:2308.02803](https://arxiv.org/abs/2308.02803), 10 pages
 7. Martin Puchol and Junrong Yan. Generalized Morse Functions, Excision and Higher Torsions, [ArXiv:2407.17100](https://arxiv.org/abs/2407.17100), 107 pages
-8. Xianzhe Dai and Junrong Yan. Heat Kernel Approach to the Weyl Law for Schrödinger Operators on Non-compact Manifolds, [ArXiv:2504.15551](https://arxiv.org/abs/2504.15551), 20 pages
+8. Xianzhe Dai and Junrong Yan. Weyl Law for Schrödinger Operators on Noncompact Manifolds, Heat Kernel, and Karamata-Hardy-Littlewood Theorem, [ArXiv:2504.15551](https://arxiv.org/abs/2504.15551), 20 pages
 9. Maxim Braverman, Ahmad Reza Haj Saeedi Sadegh and Junrong Yan. A Gluing Formula for the Z<sub>2</sub>-valued Index of Odd Symmetric Operators, [ArXiv:2505.07094](https://arxiv.org/abs/2505.07094), 18 pages
 10. Minghao Wang and Junrong Yan. Feynman Graph Integrals on Kähler Manifolds, [ArXiv:2507.09170](https://arxiv.org/abs/2507.09170), 49 pages
 
