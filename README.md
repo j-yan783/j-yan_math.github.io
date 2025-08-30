@@ -29,7 +29,7 @@ Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimmi
 
 ## Research
 
-My main research interests are in geometric analysis, quantum field theory, and partial differential equations. In particular, I am currently studying the geometry and topology of holomorphic field theories, gluing formulas for global spectral invariants, and the comparison geometry of hypersurfaces. For more details, please see my [Research Statement](Research_Statement .pdf).
+My main research interests are in geometric analysis, QFT, and PDE. In particular, I am currently studying the geometry and topology of Landau-Ginzburg B-model, holomorphic field theories, gluing formulas for global spectral invariants, and the comparison geometry of hypersurfaces. For more details, please see my [Research Statement](Research_Statement .pdf).
 
 ### Publications and Preprints
 #### Accepted or published
