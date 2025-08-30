@@ -8,7 +8,7 @@
 
 I started my undergraduate study in 2013 at School of Mathematical Science, Nankai University, Tianjin, China.
 
-I ontained my Ph. D. degree at University of California, Santa Barbara in 2022. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
+I obtained my Ph. D. degree at University of California, Santa Barbara in 2022. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 
  I was a postdoctoral fellow at Beijing International Center for Mathematical Research (BICMR), Peking University, under the supervision of [Xiaobo Liu](https://bicmr.pku.edu.cn/~xbliu/).
 
