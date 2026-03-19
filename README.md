@@ -19,7 +19,7 @@ I obtained my Ph. D. degree at University of California, Santa Barbara in 2022. 
 ### Email Address 
 [j.yan@northeastern.edu](j.yan@northeastern.edu) 
 ### Curriculum Vitae
-Click [here.](CV(updated).pdf)
+Click [here.](CV(2026).pdf)
 ### Research Statement
 Click [here.](Research_Statement (4).pdf)
 
