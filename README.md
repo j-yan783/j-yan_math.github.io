@@ -33,21 +33,21 @@ My main research interests are in geometric analysis, QFT, and PDE. In particula
 
 ### Publications and Preprints
 #### Accepted or published
-1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232)，38 pages, 2023
-2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [Math. Z.](https://link.springer.com/article/10.1007/s00209-022-03150-0), 31 pages, 2023
-3. Xinxing Tang and Junrong Yan. CY/LG correspondence for Weil-Petersson metrics and tt<sup>⁎</sup> structures, [Journal of Geometry and Physics](https://www.sciencedirect.com/science/article/pii/S0393044025001299), 34 pages, 2025
+1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232),2023, 38 pages
+2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [Math. Z.](https://link.springer.com/article/10.1007/s00209-022-03150-0), 2023, 31 pages
+3. Xinxing Tang and Junrong Yan. CY/LG correspondence for Weil-Petersson metrics and tt<sup>⁎</sup> structures, [Journal of Geometry and Physics](https://www.sciencedirect.com/science/article/pii/S0393044025001299), 2025, 34 pages
+4. Fagui Li and Junrong Yan. A first eigenvalue estimate for embedded hypersurfaces in positive Ricci curvature manifolds. Differential Geometry and its Applications, 2026, 10
+pages
 
 #### Preprints
 
 
-4. Junrong Yan. Witten Deformation for Non-Morse Functions and Gluing Formula for Analytic Torsions, [ArXiv:2301.01990](https://arxiv.org/abs/2301.01990), 39 pages
-5. Junrong Yan. A New Analytic Proof of Gluing Formula for Analytic Torsion Forms, [ArXiv:2301.02591](https://arxiv.org/abs/2301.02591), 38 pages
-6. Fagui Li and Junrong Yan. A First Eigenvalue Estimate for Embedded Hypersurfaces in Positive Ricci Curvature
-Manifolds, [ArXiv:2308.02803](https://arxiv.org/abs/2308.02803), 10 pages
-7. Martin Puchol and Junrong Yan. Generalized Morse Functions, Excision and Higher Torsions, [ArXiv:2407.17100](https://arxiv.org/abs/2407.17100), 107 pages
-8. Xianzhe Dai and Junrong Yan. Weyl Law for Schrödinger Operators on Noncompact Manifolds, Heat Kernel, and Karamata-Hardy-Littlewood Theorem, [ArXiv:2504.15551](https://arxiv.org/abs/2504.15551), 20 pages
-9. Maxim Braverman, Ahmad Reza Haj Saeedi Sadegh and Junrong Yan. A Gluing Formula for the Z<sub>2</sub>-valued Index of Odd Symmetric Operators, [ArXiv:2505.07094](https://arxiv.org/abs/2505.07094), 18 pages
-10. Minghao Wang and Junrong Yan. Feynman Graph Integrals on Kähler Manifolds, [ArXiv:2507.09170](https://arxiv.org/abs/2507.09170), 49 pages
+5. Junrong Yan. Witten Deformation for Non-Morse Functions and Gluing Formula for Analytic Torsions, [ArXiv:2301.01990](https://arxiv.org/abs/2301.01990), 2023, 39 pages
+6. Junrong Yan. A New Analytic Proof of Gluing Formula for Analytic Torsion Forms, [ArXiv:2301.02591](https://arxiv.org/abs/2301.02591), 2023, 38 pages
+7. Martin Puchol and Junrong Yan. Generalized Morse Functions, Excision and Higher Torsions, [ArXiv:2407.17100](https://arxiv.org/abs/2407.17100), 2024, 107 pages
+8. Xianzhe Dai and Junrong Yan. Weyl Law for Schrödinger Operators on Noncompact Manifolds, Heat Kernel, and Karamata-Hardy-Littlewood Theorem, [ArXiv:2504.15551](https://arxiv.org/abs/2504.15551), 2025, 20 pages
+9. Maxim Braverman, Ahmad Reza Haj Saeedi Sadegh and Junrong Yan. A Gluing Formula for the Z<sub>2</sub>-valued Index of Odd Symmetric Operators, [ArXiv:2505.07094](https://arxiv.org/abs/2505.07094), 2025, 18 pages
+10. Minghao Wang and Junrong Yan. Feynman Graph Integrals on Kähler Manifolds, [ArXiv:2507.09170](https://arxiv.org/abs/2507.09170), 2025, 49 pages
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Analytic Torsion for Witten Deformation on Non-compact Manifold
