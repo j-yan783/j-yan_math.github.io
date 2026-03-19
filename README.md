@@ -10,9 +10,9 @@ I started my undergraduate study in 2013 at School of Mathematical Science, Nank
 
 I obtained my Ph. D. degree at University of California, Santa Barbara in 2022. My advisor is [Xianzhe Dai](http://web.math.ucsb.edu/~dai/).
 
- I was a postdoctoral fellow at Beijing International Center for Mathematical Research (BICMR), Peking University, under the supervision of [Xiaobo Liu](https://bicmr.pku.edu.cn/~xbliu/).
+ I was a Boya postdoctoral fellow at Beijing International Center for Mathematical Research (BICMR), Peking University, under the supervision of [Xiaobo Liu](https://bicmr.pku.edu.cn/~xbliu/).
 
-  I am curretnly a postdoc at Northeastern University under the supervision of [Maxim Braverman](https://cos.northeastern.edu/people/maxim-braverman/).
+  I am curretnly a Zelevinsky Postdoctoral Fellow at Northeastern University under the supervision of [Maxim Braverman](https://cos.northeastern.edu/people/maxim-braverman/).
 
 
 
@@ -33,9 +33,9 @@ My main research interests are in geometric analysis, QFT, and PDE. In particula
 
 ### Publications and Preprints
 #### Accepted or published
-1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232)，38 pages
-2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [Math. Z.](https://link.springer.com/article/10.1007/s00209-022-03150-0), 31 pages
-3. Xinxing Tang and Junrong Yan. CY/LG correspondence for Weil-Petersson metrics and tt<sup>⁎</sup> structures, [Journal of Geometry and Physics](https://www.sciencedirect.com/science/article/pii/S0393044025001299), 34 pages
+1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232)，38 pages, 2023
+2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [Math. Z.](https://link.springer.com/article/10.1007/s00209-022-03150-0), 31 pages, 2023
+3. Xinxing Tang and Junrong Yan. CY/LG correspondence for Weil-Petersson metrics and tt<sup>⁎</sup> structures, [Journal of Geometry and Physics](https://www.sciencedirect.com/science/article/pii/S0393044025001299), 34 pages, 2025
 
 #### Preprints
 
