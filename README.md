@@ -35,8 +35,8 @@ My main research interests are in geometric analysis, QFT, and PDE. In particula
 #### Accepted or published
 1. Xianzhe Dai and Junrong Yan. Witten Deformation for Noncompact Manifolds with Bounded Geometry, [Journal of the Institute of Mathematics of Jussieu](https://doi.org/10.1017/S1474748021000232),2023, 38 pages
 2. Xianzhe Dai and Junrong Yan. Witten Deformation on Non-compact Manifold: Heat Kernel Expansion and Local Index Theorem, [Math. Z.](https://link.springer.com/article/10.1007/s00209-022-03150-0), 2023, 31 pages
-3. Xinxing Tang and Junrong Yan. CY/LG correspondence for Weil-Petersson metrics and tt<sup>⁎</sup> structures, [Journal of Geometry and Physics](https://www.sciencedirect.com/science/article/pii/S0393044025001299), 2025, 34 pages
-4. Fagui Li and Junrong Yan. A first eigenvalue estimate for embedded hypersurfaces in positive Ricci curvature manifolds. Differential Geometry and its Applications, 2026, 10
+3. Xinxing Tang and Junrong Yan. CY/LG Correspondence for Weil-Petersson Metrics and tt<sup>⁎</sup> Structures, [Journal of Geometry and Physics](https://www.sciencedirect.com/science/article/pii/S0393044025001299), 2025, 34 pages
+4. Fagui Li and Junrong Yan. A First Eigenvalue Estimate for Embedded Hypersurfaces in Positive Ricci Curvature Manifolds. Differential Geometry and its Applications, 2026, 10
 pages
 
 #### Preprints
