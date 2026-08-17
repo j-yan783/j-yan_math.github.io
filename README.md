@@ -36,16 +36,17 @@ My main research interests are in geometric analysis, QFT, and PDE. In particula
 3. Xinxing Tang and Junrong Yan. CY/LG Correspondence for Weil-Petersson Metrics and tt<sup>⁎</sup> Structures, [Journal of Geometry and Physics](https://www.sciencedirect.com/science/article/pii/S0393044025001299), 2025, 34 pages
 4. Fagui Li and Junrong Yan. A First Eigenvalue Estimate for Embedded Hypersurfaces in Positive Ricci Curvature Manifolds. [Differential Geometry and its Applications](https://www.sciencedirect.com/science/article/abs/pii/S092622452600001X), 2026, 10
 pages
-
+5. Junrong Yan. Witten Deformation for Non-Morse Functions and Gluing Formula for Analytic Torsions, To appear in CAG, 2023, 39 pages
 #### Preprints
 
 
-5. Junrong Yan. Witten Deformation for Non-Morse Functions and Gluing Formula for Analytic Torsions, [ArXiv:2301.01990](https://arxiv.org/abs/2301.01990), 2023, 39 pages
 6. Junrong Yan. A New Analytic Proof of Gluing Formula for Analytic Torsion Forms, [ArXiv:2301.02591](https://arxiv.org/abs/2301.02591), 2023, 38 pages
 7. Martin Puchol and Junrong Yan. Generalized Morse Functions, Excision and Higher Torsions, [ArXiv:2407.17100](https://arxiv.org/abs/2407.17100), 2024, 107 pages
 8. Xianzhe Dai and Junrong Yan. Weyl Law for Schrödinger Operators on Noncompact Manifolds, Heat Kernel, and Karamata-Hardy-Littlewood Theorem, [ArXiv:2504.15551](https://arxiv.org/abs/2504.15551), 2025, 20 pages
 9. Maxim Braverman, Ahmad Reza Haj Saeedi Sadegh and Junrong Yan. A Gluing Formula for the Z<sub>2</sub>-valued Index of Odd Symmetric Operators, [ArXiv:2505.07094](https://arxiv.org/abs/2505.07094), 2025, 18 pages
 10. Minghao Wang and Junrong Yan. Feynman Graph Integrals on Kähler Manifolds, [ArXiv:2507.09170](https://arxiv.org/abs/2507.09170), 2025, 49 pages
+11.  Maxim Braverman, Xianzhe Dai and Junrong Yan. The Classical Weyl Law for Schrödinger Operators on Complete Riemannian Manifolds, [Arxiv:2605.07200](https://arxiv.org/abs/2605.07200), 2026, 35 pages
+12.  10. Minghao Wang and Junrong Yan. Renormalizations in Holomorphic Field Theories on Kähler Manifolds, [ArXiv:2608.00546](https://arxiv.org/abs/2608.00546), 2026, 82 pages
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Analytic Torsion for Witten Deformation on Non-compact Manifold
