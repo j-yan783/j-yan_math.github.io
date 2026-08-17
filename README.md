@@ -103,8 +103,8 @@ This is a joint project with [Minghao Wang](https://www.bu.edu/math/profile/ming
 2. _Math 108B: Introduction to Linear Algebra_, Winter 2018 at UCSB
 3. _Math 117: Methods of Analysis_, Fall 2019 at UCSB
 ### Undergraduate Mentoring
-1. Jiasheng Lin: _Morse theory and Floer homology_
-2. Kai Yan & Xinzhe Li: _Gauge theory, TQFT and knot theory_
+1. Jiasheng Lin (UCSB): _Morse theory and Floer homology_
+2. Kai Yan & Xinzhe Li (UCSB): _Gauge theory, TQFT and knot theory_
 <div><a name="R4"></a>
  </div>
  
