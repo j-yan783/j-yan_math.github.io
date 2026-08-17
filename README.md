@@ -80,7 +80,11 @@ This is a joint project with [Minghao Wang](https://www.bu.edu/math/profile/ming
 
 ### Instructor
 1. _Math 3B: Calculus with Applications_, Summer 2021 at UCSB
-2. _Calculus 2_, Winter 2024
+2. _Calculus 2_, Winter 2024 at Peking University
+3. _Math 1342: Calculus 2 for Science and Engineering_, Fall 2024 at Northeastern University
+4. _Math 1342: Calculus 2 for Science and Engineering_, Spring 2025 at Northeastern University
+5. _Math 2331: Linear Algebra_, Fall 2025 at Northeastern University
+6. _Math 7371: Morse Theory_, Fall 2025 at Northeastern University
 
 ### Teaching Assistant
 1. _Math 8: Transitions to Higher Mathematics_, Spring 2018 at UCSB
