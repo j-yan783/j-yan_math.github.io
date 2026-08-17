@@ -79,25 +79,28 @@ This is a joint project with [Minghao Wang](https://www.bu.edu/math/profile/ming
 ## Teaching
 
 ### Instructor
-1. _Math 3B: Calculus with Applications_, Summer 2021
+1. _Math 3B: Calculus with Applications_, Summer 2021 at UCSB
+2. _Calculus 2_, Winter 2024
 
 ### Teaching Assistant
-1. _Math 8: Transitions to Higher Mathematics_, Spring 2018
-2. _Math 8: Transitions to Higher Mathematics_, Fall 2018
-3. _Math 6B: Vector Calculus_, Winter 2019
-4. _Math 34B: Calculus for Social and Life Sciences_, Spring 2019
-5. _Math 6A: Vector Calculus_, Fall 2019
-6. _Math 6A: Vector Calculus_, Winter 2020
-7. _Math 6A: Vector Calculus_, Summer 2020
-8. _Math 8: Transitions to Higher Mathematics_,  Fall 2020
-9. _Math 6A: Vector Calculus_, Winter 2021
-10. _Math 6A: Vector Calculus_, Spring 2021
+1. _Math 8: Transitions to Higher Mathematics_, Spring 2018 at UCSB
+2. _Math 8: Transitions to Higher Mathematics_, Fall 2018 at UCSB
+3. _Math 6B: Vector Calculus_, Winter 2019 at UCSB
+4. _Math 34B: Calculus for Social and Life Sciences_, Spring 2019 at UCSB
+5. _Math 6A: Vector Calculus_, Fall 2019 at UCSB
+6. _Math 6A: Vector Calculus_, Winter 2020 at UCSB
+7. _Math 6A: Vector Calculus_, Summer 2020 at UCSB
+8. _Math 8: Transitions to Higher Mathematics_,  Fall 2020 at UCSB
+9. _Math 6A: Vector Calculus_, Winter 2021 at UCSB
+10. _Math 6A: Vector Calculus_, Spring 2021 at UCSB
 
 ### Reader
-1. _Math 117: Methods of Analysis_, Fall 2017
-2. _Math 108B: Introduction to Linear Algebra_, Winter 2018
-3. _Math 117: Methods of Analysis_, Fall 2019
-
+1. _Math 117: Methods of Analysis_, Fall 2017 at UCSB
+2. _Math 108B: Introduction to Linear Algebra_, Winter 2018 at UCSB
+3. _Math 117: Methods of Analysis_, Fall 2019 at UCSB
+### Undergraduate Mentoring
+1. Jiasheng Lin: _Morse theory and Floer homology_
+2. Kai Yan & Xinzhe Li: _Gauge theory, TQFT and knot theory_
 <div><a name="R4"></a>
  </div>
  
