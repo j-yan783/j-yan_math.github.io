@@ -19,7 +19,7 @@ I obtained my Ph. D. degree at University of California, Santa Barbara in 2022. 
 ### Email Address 
 [j.yan@northeastern.edu](j.yan@northeastern.edu) 
 ### Curriculum Vitae
-Click [here.](CV(2026).pdf)
+Click [here.](CV(2026 New).pdf)
 
 Besides mathematics, I enjoy playing the card game Yu-Gi-Oh , cycling and swimming.
 <div><a name="R2"></a>
