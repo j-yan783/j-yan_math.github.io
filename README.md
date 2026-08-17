@@ -36,7 +36,7 @@ My main research interests are in geometric analysis, QFT, and PDE. In particula
 3. Xinxing Tang and Junrong Yan. CY/LG Correspondence for Weil-Petersson Metrics and tt<sup>⁎</sup> Structures, [Journal of Geometry and Physics](https://www.sciencedirect.com/science/article/pii/S0393044025001299), 2025, 34 pages
 4. Fagui Li and Junrong Yan. A First Eigenvalue Estimate for Embedded Hypersurfaces in Positive Ricci Curvature Manifolds. [Differential Geometry and its Applications](https://www.sciencedirect.com/science/article/abs/pii/S092622452600001X), 2026, 10
 pages
-5. Junrong Yan. Witten Deformation for Non-Morse Functions and Gluing Formula for Analytic Torsions, To appear in CAG, 2023, 39 pages
+5. Junrong Yan. Witten Deformation for Non-Morse Functions and Gluing Formula for Analytic Torsions, To appear in CAG, 39 pages
 #### Preprints
 
 
