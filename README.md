@@ -45,8 +45,8 @@ pages
 8. Xianzhe Dai and Junrong Yan. Weyl Law for Schrödinger Operators on Noncompact Manifolds, Heat Kernel, and Karamata-Hardy-Littlewood Theorem, [ArXiv:2504.15551](https://arxiv.org/abs/2504.15551), 2025, 20 pages
 9. Maxim Braverman, Ahmad Reza Haj Saeedi Sadegh and Junrong Yan. A Gluing Formula for the Z<sub>2</sub>-valued Index of Odd Symmetric Operators, [ArXiv:2505.07094](https://arxiv.org/abs/2505.07094), 2025, 18 pages
 10. Minghao Wang and Junrong Yan. Feynman Graph Integrals on Kähler Manifolds, [ArXiv:2507.09170](https://arxiv.org/abs/2507.09170), 2025, 49 pages
-11.  Maxim Braverman, Xianzhe Dai and Junrong Yan. The Classical Weyl Law for Schrödinger Operators on Complete Riemannian Manifolds, [Arxiv:2605.07200](https://arxiv.org/abs/2605.07200), 2026, 35 pages
-12.  10. Minghao Wang and Junrong Yan. Renormalizations in Holomorphic Field Theories on Kähler Manifolds, [ArXiv:2608.00546](https://arxiv.org/abs/2608.00546), 2026, 82 pages
+11. Maxim Braverman, Xianzhe Dai and Junrong Yan. The Classical Weyl Law for Schrödinger Operators on Complete Riemannian Manifolds, [Arxiv:2605.07200](https://arxiv.org/abs/2605.07200), 2026, 35 pages
+12. Minghao Wang and Junrong Yan. Renormalizations in Holomorphic Field Theories on Kähler Manifolds, [ArXiv:2608.00546](https://arxiv.org/abs/2608.00546), 2026, 82 pages
 
 #### In preparation
 3. Xianzhe Dai and Junrong Yan. Analytic Torsion for Witten Deformation on Non-compact Manifold
